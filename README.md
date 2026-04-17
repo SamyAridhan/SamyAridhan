@@ -63,4 +63,4 @@ When I am not writing code, I am analyzing and optimizing physical and digital s
 
 If you're also figuring out how to actually work with AI (not just use it), or want to talk backend architecture and systems design, we'll probably get along.
 
-📥 **Establish Connection:** [LinkedIn Profile](www.linkedin.com/in/samy-aridhan-hon-971208376) | [Email Address](mailto:samyaridhanhon@gmail.com)
+📥 **Establish Connection:** LinkedIn Profile: [Samy Aridhan Hon](https://www.linkedin.com/in/samy-aridhan-hon-971208376) | Email: [samyaridhanhon@gmail.com](mailto:samyaridhanhon@gmail.com)
