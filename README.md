@@ -27,17 +27,17 @@ Lately, I've been exploring:
 
 ## 🚀 Active & High-Fidelity Projects
 
-### [MySihat: Offline-First Distributed Health Protocol](link-to-repo) `[Active Development]`
+### [MySihat: Offline-First Distributed Health Protocol](https://github.com/SamyAridhan/MySihat) `[Active Development]`
 An embedded systems and middleware architecture designed to store complete medical histories on highly constrained 32KB smart card chips.
 * **Hardware Mitigation:** Engineered a custom C++ "Codebook" bit-packing protocol to compress medical JSON data into strict 6-byte payloads (86% compression).
 * **Fault Tolerance:** Implemented an O(1) Circular Buffer utilizing modulo arithmetic to mathematically prevent memory overflow and manage physical EEPROM write-cycle degradation.
 * **Hardware Interface:** Built a Node.js backend utilizing PC/SC middleware to transmit ISO 7816 APDU hex commands via USB readers, bypassing standard browser security sandboxes.
 
-### [ORBIT: On-Demand Route-Based Intelligent Transit](link-to-repo) `[Active Development - FYP]`
+### [ORBIT: On-Demand Route-Based Intelligent Transit](https://github.com/SamyAridhan/ORBIT) `[Active Development - FYP]`
 An intelligent transit system for campus buses utilizing Multi-Agent System (MAS) architectures.
 * **Key Mechanics:** Replaces fixed schedules with demand-aware dispatch, executing real-time coordination between buses and stops via structured agent-to-agent state synchronization.
 
-### [PawSure & MindMate](link-to-repo)
+### [PawSure](https://github.com/apple-6/Pawsure-Repo) & [MindMate](https://github.com/SamyAridhan/IPman-MindMate)
 * **PawSure:** Lead Architect for an integrated pet care superapp ecosystem (NestJS, PostgreSQL, Flutter).
 * **MindMate:** Architected backend infrastructure for a mental health management system (Java, Spring Boot, Hibernate).
 
